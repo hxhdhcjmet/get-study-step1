@@ -4,6 +4,5 @@ hello mio
 hello mio
 hello mio
 hello mio
-hello mio
 hello mio master
-hello mio
+hello mio hot-fix
